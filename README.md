@@ -19,7 +19,7 @@ Setup as a starter template, you can easily generate a new GitHub repository. Fr
 ## What's included
 
 - Single HTML page (`index.html`) to demonstrate how to include Bootstrap.
-- Includes [Bootstrap](https://getbootstrap.com) (currently using v4.6.0) source files via npm.
+- Includes [Bootstrap](https://smooth80.github.io) (currently using v4.6.0) source files via npm.
 - Includes [Bootstrap Icons](https://icons.getbootstrap.com) (v1.4.0), which includes over 1,200 icons available as SVGs and web fonts.
 - npm scripts (see `package.json`) for compiling and autoprefixing Sass, watching for changes, and starting a basic local server.
 - Example stylesheet (`scss/starter.scss`) highlighting two ways to include and customize Bootstrap.
@@ -121,4 +121,4 @@ At the root of the repo, `.stylelintignore` is used to list files that we ignore
 
 ## Copyright
 
-&copy; @mdo 2020-2021 and licensed MIT.
+&copy; Smooth 80's Technology 2022 and licensed MIT.
